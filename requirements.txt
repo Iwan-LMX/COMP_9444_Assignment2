@@ -1,0 +1,44 @@
+# Core scientific computing
+numpy>=1.26.0
+pandas>=2.2.0
+scipy>=1.12.0
+scikit-learn>=1.4.0
+scikit-image>=0.24.0
+
+# Visualization
+matplotlib>=3.8.0
+seaborn>=0.13.0
+plotly>=5.17.0
+
+# Computer Vision
+opencv-python>=4.10.0
+Pillow>=10.2.0
+albumentations>=0.4.6
+
+# Deep Learning - PyTorch
+torch>=2.5.0
+torchvision>=0.20.0
+torchaudio>=2.5.0
+
+# Deep Learning - TensorFlow (optional)
+tensorflow>=2.16.0
+
+# Pre-trained models
+timm>=0.9.7
+transformers>=4.46.0
+efficientnet-pytorch>=0.7.1
+segmentation-models-pytorch>=0.3.4
+
+# Jupyter and development
+jupyter>=1.0.0
+ipykernel>=6.27.0
+ipywidgets>=8.1.0
+
+# Data handling
+h5py>=3.10.0
+tqdm>=4.66.0
+
+# Utilities
+pathlib
+pyyaml>=6.0.0
+python-dotenv>=1.0.0
